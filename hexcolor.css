@@ -1,0 +1,13 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+body {
+	background: black;
+}
+
+#hex {
+	color:white;
+	font-size: 150px;
+	text-align: center;
+	margin:210px;
+	font-family: 'Orbitron', sans-serif;

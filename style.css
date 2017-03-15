@@ -1,0 +1,20 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+body {
+	background: black;
+}
+
+#clock {
+	color:white;
+	font-size: 150px;
+	text-align: center;
+	margin:210px;
+	font-family: 'Orbitron', sans-serif;
+}
+img {
+	clear:right;
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 40px;
+}
